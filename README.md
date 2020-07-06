@@ -1,3 +1,3 @@
-# carboxylate-platform
+# Carboxylate platform
 PhD project
-chain elongation with lactic acid
+Applied microbial ecology of anaerobic reactor microbiomes
